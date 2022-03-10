@@ -11,4 +11,5 @@ MIT License
 
 ## Conclusion: 
 ## Software tools:
-
+## Datset:
+https://www.kaggle.com/ylchang/telco-customer-churn-1113
