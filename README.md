@@ -10,7 +10,8 @@ MIT License
 ## Introduction:
 
 ## Conclusion: 
-## Software tools:
+## Tools:
+- Python
 
 ## Dataset:
-- sklearn.datasets make_classification
+https://www.kaggle.com/ylchang/telco-customer-churn-1113
