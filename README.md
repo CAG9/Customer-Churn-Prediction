@@ -2,7 +2,7 @@
 
 ## Results:
 
-## Authors: 
+## Author: 
 - Cesar Arcos-Gonzalez: cesar99ag@gmail.com
 
 ## License : 
