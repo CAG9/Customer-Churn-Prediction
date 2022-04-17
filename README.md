@@ -11,7 +11,7 @@ MIT License
 
 ## Conclusion: 
 ## Tools:
-- Python
+- Python 3
 
 ## Dataset:
 https://www.kaggle.com/ylchang/telco-customer-churn-1113
