@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-## Results:
+## Results
 
 ## Author: 
 - Cesar Arcos-Gonzalez: cesar99ag@gmail.com
