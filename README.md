@@ -2,16 +2,16 @@
 
 ## Results
 
-## Author: 
+## Author
 - Cesar Arcos-Gonzalez: cesar99ag@gmail.com
 
-## License : 
+## License 
 MIT License
-## Introduction:
+## Introduction
 
-## Conclusion: 
-## Tools:
+## Conclusion
+## Tools
 - Python 3
 
-## Dataset:
+## Dataset
 https://www.kaggle.com/ylchang/telco-customer-churn-1113
