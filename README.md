@@ -13,6 +13,6 @@ MIT License
 ## Tools
 - Python 3
 - Scikit-Learn
-
+- Tensorflow 2
 ## Dataset
 https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
