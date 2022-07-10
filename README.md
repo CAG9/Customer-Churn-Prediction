@@ -7,9 +7,7 @@
 
 ## License 
 MIT License
-## Introduction
 
-## Conclusion
 ## Tools
 - Python 3
 - Scikit-Learn
