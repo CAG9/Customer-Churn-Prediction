@@ -1,4 +1,4 @@
-# Customer Churn 
+# Customer Churn Analysis and Prediction
 
 ## Results
 coming soon
